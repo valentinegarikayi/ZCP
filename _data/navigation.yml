@@ -1,14 +1,24 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/  
   - title: "Archive"
     url: /year-archive/
   - title: "Tags"
     url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Search"
+    url: /search/
+
+side:
+- title: Get Started
+  children:
+    - title: "Policy Document"
+      url: /policy-document  
+    - title: "Quick History"
+      url: /quick-history
+    - title:  Contemporary Zimbabwe
+      url: /contemporary-zim      
+    - title: "About"
+      url: /about

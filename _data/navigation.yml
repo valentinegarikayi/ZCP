@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/  
   - title: "Archive"
-    url: /year-archive/
+    url: /pdfs/
   - title: "Tags"
     url: /tags/
   # - title: "Sample Collections"
@@ -16,6 +16,8 @@ side:
   children:
     - title: "Policy Document"
       url: /policy-document  
+    - title: "Press statement"     
+      url: /launch
     - title: "Quick History"
       url: /quick-history
     - title:  Contemporary Zimbabwe

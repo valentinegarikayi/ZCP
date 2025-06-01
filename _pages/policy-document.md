@@ -4,15 +4,13 @@ classes: wide
 title: Policy document
 permalink: /policy-document/
 date: 2017-01-10
-header:
-  teaser: /assets/images/
-tags: zcp
+sidebar:
+  nav: "side"
+tags: policy
 toc: true
 ---
 
-ZIMBABWE COMMUNIST PARTY
-
-POLITICAL ECONOMY
+**ZIMBABWE COMMUNIST PARTY POLITICAL ECONOMY**
 
 POLICY DOCUMENT
 
@@ -179,7 +177,7 @@ The task, then, for the imperialists, was to replace the out-dated white settler
 regimes — but not by Communists! The new rulers must be willing tools of monopoly capitalist, in
 particular mining interests.
 22. Further, local southern African whites had to some degree, set up semi-autonomous economies
-outside of the direct control of imperialism. This was not too popular in Europe and America.~ 12 ~
+outside of the direct control of imperialism. This was not too popular in Europe and America.
 23. By 1965, and under pressure from the Commonwealth, Britain put sanctions against the
 intransigent Rhodesian Government. The imperialists were manoeuvring towards the establishment
 of a black neo-colonial government. The growing ties between ZAPU and the socialist world were
@@ -264,7 +262,7 @@ came together against a united but corrupt national liberation movement in which
 bourgeoisie was becoming increasingly dominant.
 37. One of the main players in this conundrum was the Zimbabwe Congress of Trade Unions
 (ZCTU), the main body uniting the workers but advised by Godfrey Kanyenze an employee of
-arch-capitalist George Soros through his virulently anti-Communist “Open Society Initiative”.~ 14 ~
+arch-capitalist George Soros through his virulently anti-Communist “Open Society Initiative”.
 38. Instead of organizing against sanctions and boosting production like their Rhodesian forbears,
 the Zimbabwe élite increased its plunder. The land occupations started by former freedom fighters
 in 2000 became a means for the élite to grab land for themselves, in many cases expelling the
@@ -347,7 +345,7 @@ objectives. It has hampered our efforts to priorities resource allocations and t
 implementation of government’s objectives and priorities. In addition, weaknesses in co-
 ordination of government have led to policy inconsistencies and, in several cases, poor service
 delivery outcomes.”
-GREEN PAPER: Preface by Trevor Manuel (then South African Minister of Finance)~ 16 ~
+GREEN PAPER: Preface by Trevor Manuel (then South African Minister of Finance)
 
 # Section 3: A Plan for Zimbabwe
 
@@ -388,8 +386,10 @@ engage with the private sector locally or with foreign investors to create joint
 and where this is necessary and appropriate in the interests of efficient production, i.e. when
 we need expertise either in production or distribution or the acquisition of machinery which would
 otherwise be unavailable. This proviso must never be abused by unscrupulous ‘business people`
-with no real skills~ 17 ~
-Banking
+with no real skills
+
+## Banking
+
 49. The first principle of banking in a restored Zimbabwe is that banking must serve productive
 industry and not be used to suck its life-blood and eventually destroy it. Banking and accountancy
 must be used to assess and regulate growing production.
@@ -423,7 +423,7 @@ Commissions work:
 1) The Zimbabwe banking system prior to ESAP.
 2) The banking systems of former socialist countries (such as the USSR, Yugoslavia and Hungary)
 those countries following a socialist path today (Cuba, China, Vietnam) and those countries which
-have successfully followed a semi-independent growth strategy (Bolivia, Nicaragua, Malaysia).~ 18 ~
+have successfully followed a semi-independent growth strategy (Bolivia, Nicaragua, Malaysia).
 3) The recovery of Iceland after its banking melt-down.
 4) Islamic Banking.
 5) Co-operative banking (especially in Brazil and Bangla Desh).
@@ -499,7 +499,7 @@ Agriculture
 economy of our country. However, in condemning the anarchic incompetence and inability of the
 ZANU(PF) government to carry out a land reform programme which is both just and productive,
 and the greed of the parasitic black bourgeoisie in grabbing the best land for itself, we should not
-forget the historical conditions under which this happened:~ 20 ~
+forget the historical conditions under which this happened:
 81. Under the 1930 Land Apportionment Act and a number of subsequent acts, (none of which
 made any fundamental change to the 1930 original), the Rhodesian Government divided the land
 into two, the white minority not only receiving approximately the same amount of land as the black
@@ -543,7 +543,7 @@ maize, government has continued to wastefully give out maize-seed packs and fert
 growing of small grains has been encouraged only locally and spasmodically without any overall
 plan. Production of crops specifically adapted to dry land, pigeon peas and cassava for example is
 almost non-existent. Despite the exorbitant cost of insecticides and chemical fertilizers, organic
-farming methods are virtually unknown.~ 21 ~
+farming methods are virtually unknown.
 88. Meat production has concentrated on beef. The excellent work by the Matopos Research Station
 in commercial goat production has hardly moved outside the Station. Commercial production of
 eland and impala has hardly been touched; ostrich production has been systematically destroyed.

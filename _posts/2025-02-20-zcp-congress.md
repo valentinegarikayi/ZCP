@@ -7,9 +7,11 @@ header:
   teaser: /assets/images/20240227_110027.jpg
 tags: zcp
 sidebar:
-  - title: "About"
+  - title: "In brief"
     image: /assets/images/ZCP.png
-    text: "ZCP is a blah blah blah"
+    text: "Zimbabwe Communist Party plans second elective congress; remains committed to dialogue and combating ‘imperialism and the looting class’ "
+
+
 ---
 
 Zimbabwe Communist Party plans second elective congress; remains committed to dialogue and combating ‘imperialism and the looting class’

@@ -1,12 +1,12 @@
 ---
-layout: splash
+layout: single
 classes: wide
 permalink: /quick-history
-title: "Zimbabwe Commmunist Party"
+title: "Quick History of Communist parties in Zimbabwe"
 sidebar:
   nav: "side"
 header:   
-  overlay_image: /assets/images/banner.png  
+  overlay_image: /assets/images/harare-banner2.jpg  
 ---
 
 From a Marxist-Leninist perspective, the history of communist parties and revolutionary politics in Zimbabwe reflects both the potential and the betrayal of the revolutionary path. Zimbabwe’s liberation struggle was fundamentally a national democratic revolution with strong Marxist-Leninist influences, yet the promise of socialism was ultimately derailed by bourgeois nationalism and opportunism within the leadership of the ruling party.

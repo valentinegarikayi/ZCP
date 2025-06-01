@@ -1,10 +1,12 @@
 ---
-layout: splash
+layout: single
 classes: wide
 permalink: /about/
-title: "Zimbabwe Communist Party"
+title: "About Us"
+sidebar:
+  nav: "side"
 header:   
-  overlay_image: /assets/images/banner.png
+  overlay_image: /assets/images/farm-banner.jpg
 ---
 
 # The People's Republic of Zimbabwe.

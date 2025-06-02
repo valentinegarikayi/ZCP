@@ -4,11 +4,11 @@ classes: wide
 title: Nationalist propaganda outlets in Zimbabwe
 date: 2025-01-10
 header:
-  teaser: /assets/images/nationalist.jpg
+  teaser: /assets/images/zim-flag.png
 tags: zcp
 sidebar:
   - title: "In brief"
-    image: /assets/images/nationalist.jpg
+    image: /assets/images/zim-flag.png
     text: Nationalist outlets serve as a propaganda and ideological enforcement tool for reactionary government forces in Zimbabwe, particularly those aligned with the ruling party.
 ---
 

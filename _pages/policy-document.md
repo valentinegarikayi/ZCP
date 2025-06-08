@@ -349,7 +349,7 @@ GREEN PAPER: Preface by Trevor Manuel (then South African Minister of Finance)
 
 # Section 3: A Plan for Zimbabwe
 
-## National Plan
+## NATIONAL PLAN
 
 43. There can be no long term solution for the problems of Zimbabwe unless production is put
 first. Zimbabwe has abundant natural resources and it is the harnessing of these resources with an
@@ -388,7 +388,7 @@ we need expertise either in production or distribution or the acquisition of mac
 otherwise be unavailable. This proviso must never be abused by unscrupulous ‘business people`
 with no real skills
 
-## Banking
+## BANKING
 
 49. The first principle of banking in a restored Zimbabwe is that banking must serve productive
 industry and not be used to suck its life-blood and eventually destroy it. Banking and accountancy

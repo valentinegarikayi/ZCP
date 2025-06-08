@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: post
 classes: wide
 title: "South Africa in crisis: The SACP speaks"
 date: 2017-04-01
 header:
   teaser: /assets/images/sacp.jpg
-tags: vanguard "south africa"
+tags: [vanguard,south africa]
 sidebar:
   - title: "About"
     image: /assets/images/sacp.jpg

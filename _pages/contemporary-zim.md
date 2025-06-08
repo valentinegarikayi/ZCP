@@ -6,7 +6,7 @@ title: "Contemporary Zimbabwean Politics"
 sidebar:
   nav: "side"
 header:   
-  overlay_image: /assets/images/harare-banner1.jpg
+  overlay_image: /assets/images/banner-crowd.jpg
 ---
 
 Contemporary Zimbabwean politics is shaped by a complex interplay of authoritarian governance, historical liberation credentials, and deeply entrenched reactionary forces that actively suppress alternative political voices—particularly those emerging from the grassroots left. Since independence in 1980, the ruling party, ZANU-PF, has maintained its grip on power through a combination of nationalist rhetoric, state patronage, and coercion. While the party continues to invoke socialist language and the legacy of the liberation struggle, its actual governance has been marked by neoliberal economic policies, elite enrichment, and political repression—practices that starkly contradict the egalitarian ideals it once claimed to champion.

@@ -5,7 +5,7 @@ title: "Nicaragua: A social solidarity economy in living practice"
 date: 2017-04-01
 header:
   teaser: /assets/images/ctcp.jpg
-tags: vanguard nicaragua
+tags: [vanguard,nicaragua]
 toc: true
 sidebar:
   - title: "Summary"

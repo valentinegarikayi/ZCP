@@ -14,10 +14,10 @@ main:
 side:
 - title: Get Started
   children:
-    - title: "Policy Document"
-      url: /policy-document  
-    - title: "Press statement"     
-      url: /launch
+    - title: "Party Programme"
+      url: /programme
+    - title: "Central Committee"     
+      url: /central-commitee
     - title: "Quick History"
       url: /quick-history
     - title:  Contemporary Zimbabwe

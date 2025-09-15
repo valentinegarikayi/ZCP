@@ -2,7 +2,7 @@
 layout: single
 #classes: wide
 permalink: /video/
-title: "Video"
+title: "Videos"
 sidebar:
   nav: "side"
 toc: true

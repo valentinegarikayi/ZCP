@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /launch
+permalink: /central-commitee
 title: " Press statement on the occasion of the launch of the Zimbabwe Communist Party"
 sidebar:
   nav: "side"

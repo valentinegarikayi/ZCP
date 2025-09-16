@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-permalink: /pdfs/
+permalink: /vanguard/
 title: "Vanguard Archive"
 header:   
   overlay_image: /assets/images/harare-banner2.jpg

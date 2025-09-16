@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /central-commitee
-title: " Press statement on the occasion of the launch of the Zimbabwe Communist Party"
+title: "Press statement on the occasion of the launch of the Zimbabwe Communist Party"
 sidebar:
   nav: "side"
 header:

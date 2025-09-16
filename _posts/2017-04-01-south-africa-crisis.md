@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 classes: wide
 title: "South Africa in crisis: The SACP speaks"
 date: 2017-04-01

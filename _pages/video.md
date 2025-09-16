@@ -8,6 +8,10 @@ sidebar:
 toc: true
 ---
 
+## Zimbabweans want political & economic change
+
+{% include video id="lhTpG1gAinQ" provider="youtube" %}
+
 ## Zimbabwe Communist Party - Why this name?
 
 {% include video id="6FGAi5AeNTA" provider="youtube" %}

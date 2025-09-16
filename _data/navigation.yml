@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: /about/  
+    url: /about/
   - title: "Join"
-    url: /join/     
-  - title: "Archive"
-    url: /pdfs/
-  - title: "Video"
+    url: /join/
+  - title: "Vanguard"
+    url: /vanguard
+  - title: "Videos"
     url: /video/
   - title: "Tags"
     url: /tags/
@@ -16,11 +16,13 @@ side:
   children:
     - title: "Party Programme"
       url: /programme
-    - title: "Central Committee"     
+    - title: "Constitution"
+      url: /constitution      
+    - title: "Central Committee"
       url: /central-commitee
     - title: "Quick History"
       url: /quick-history
     - title:  Contemporary Zimbabwe
-      url: /contemporary-zim      
+      url: /contemporary-zim
     - title: "About"
       url: /about

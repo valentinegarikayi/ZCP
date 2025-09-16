@@ -1,8 +1,6 @@
 ---
-title: "Vanguard Issue 1"
-description: "Vanguard Issue 1 from 1st May 2017."
+title: "Vanguard No. 7"
+description: "Vanguard Vol. 2 No. 1 from February 2019."
 file: /assets/pdfs/Vanguard_Vol2_Issue7.pdf
 date: 2017-05-01
 ---
-
-Vanguard Volume 2 Issue 7 from 27th February 2019.

@@ -1,25 +1,29 @@
 # main links
 main:
-  - title: "About"
+  - title: "about"
     url: /about/
-  - title: "Join"
+  - title: "join"
     url: /join/
-  - title: "Vanguard"
+  - title: "learn"
+    url: /learn/
+  - title: "vanguard"
     url: /vanguard
-  - title: "Videos"
+  - title: "videos"
     url: /video/
-  - title: "Tags"
+  - title: "tags"
     url: /tags/
 
 side:
 - title: Get Started
   children:
+    - title: "Constitution"
+      url: /constitution
     - title: "Party Programme"
       url: /programme
-    - title: "Constitution"
-      url: /constitution      
     - title: "Central Committee"
-      url: /central-commitee
+      url: /central-committee    
+    - title: "Press Statement"
+      url: /Inaugural-press
     - title: "Quick History"
       url: /quick-history
     - title:  Contemporary Zimbabwe

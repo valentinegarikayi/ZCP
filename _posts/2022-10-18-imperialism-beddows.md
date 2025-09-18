@@ -1,9 +1,10 @@
 ---
 layout: single
 classes: wide
-title: Imperialism in the Zimbabwean context, **Ian Beddowes**
+title: "Imperialism in the Zimbabwean context: Ian Beddowes"
 date: 2022-10-18
 tags: beddowes zimleftradio
+feature: true
 header:
     teaser: /assets/images/rhodes-colossus.png
 sidebar:

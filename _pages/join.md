@@ -9,9 +9,6 @@ header:
   overlay_image: /assets/images/banner-flag.jpg
 ---
 
-
-
-
 <iframe class="airtable-embed" 
         src="https://airtable.com/embed/appcJmXjyGCJlWodt/pagRUL40qvEjRcjTM/form" 
         frameborder="0" 

@@ -1,6 +1,6 @@
 ---
 layout: single
-#classes: wide
+classes: wide
 permalink: /video/
 title: "Videos"
 sidebar:

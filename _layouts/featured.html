@@ -1,0 +1,34 @@
+---
+layout: single
+classes: wide
+---
+
+<div id="main" role="main">
+
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+
+    <div class="feature__wrapper">
+      {% assign featured_pages = site.pages | where: "feature", true %}
+      {% assign featured_posts = site.posts | where: "feature", true %}
+      {% assign featured_all = featured_pages | concat: featured_posts | sort: "priority" %}
+
+      {% for f in featured_all %}
+        <div class="feature__item feature__item--overlay">
+          <a href="{{ f.url | relative_url }}">
+            <div class="feature__image-wrapper">
+              {% if f.header.teaser %}
+                <img src="{{ f.header.teaser | relative_url }}" alt="{{ f.title }}">
+              {% endif %}
+              <div class="feature__title-overlay">
+                <h2>{{ f.title }}</h2>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+
+</div>
+

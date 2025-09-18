@@ -9,30 +9,21 @@ tags: [vanguard]
 sidebar:
   - title: "About"
     image: /assets/images/chere.jpg
-    text: This 
+    text: Comrade Robson Chere was arbitrarily detained by members of the CIO in April 2022.
 ---
 
 On 27th April 2022, Amalgamated Rural Teachers Union of Zimbabwe (ARTUZ) Secretary
-General, Comrade Robson Chere, a member of the
-Zimbabwe Communist Party was arbitrarily
-detained by members of the Central Intelligence
-Organisation.
-Comrade Robson was conducting a planning
-workshop at Guruve Growth Point when the
-officers interrupted the meeting, and arrested the
-human rights defender without a warrant. Chere
-was released later the same day after he was
-dropped off at the Guruve Police Station.
-ARTUZ was founded in 2009 in response to
-extremely poor wages and working conditions of
-rural teachers; the union now has about 35,000
-members and operates in all 10 provinces of
-Zimbabwe, widening its reach to include non-rural
-teachers. The union also fights for the right to
+General, Comrade Robson Chere, a member of the Zimbabwe Communist Party was arbitrarily
+detained by members of the Central Intelligence Organisation.
+Comrade Robson was conducting a planning workshop at Guruve Growth Point when the
+officers interrupted the meeting, and arrested the human rights defender without a warrant. Chere
+was released later the same day after he was dropped off at the Guruve Police Station.
+ARTUZ was founded in 2009 in response to extremely poor wages and working conditions of
+rural teachers; the union now has about 35,000 members and operates in all 10 provinces of
+Zimbabwe, widening its reach to include non-rural teachers. The union also fights for the right to
 education of rural children.
 
-On 27th April 2022, Comrade Robson was
-conducting a planning workshop for ARTUZ’s
+On 27th April 2022, Comrade Robson was conducting a planning workshop for ARTUZ’s
 ‘Save Our Education’ campaign when two plain clothes individuals, later identified as members of
 the Central Intelligence Organisation (CIO), interrupted the meeting. He was arbitrarily detained for
 about an hour on the roadside by the two men. After his detention was made public online, with

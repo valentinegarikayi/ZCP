@@ -1,11 +1,13 @@
 ---
 layout: single
 classes: wide
-title: Socialism and economic management in Africa **Ian Beddowes**
+title: "Socialism and economic management in Africa: Ian Beddowes"
 date: 2023-09-06
 tags: beddowes zimleftradio
+feature: true
 header:
     teaser: /assets/images/mugabe-nyerere.jpg
+    show_overlay_excerpt: false
 sidebar:
   - title: "About"
     image: /assets/images/Ian_Beddowes.jpg

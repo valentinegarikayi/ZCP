@@ -10,6 +10,7 @@ header:
 toc: false
 ---
 
-Party members are expected to work through the following texts individually in addition to their study groups:
+Party members are expected to work through the following texts individually as well as participating in study groups:
 
 * [Foundations of Leninism](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/)
+* 

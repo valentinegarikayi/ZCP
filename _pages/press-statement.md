@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /central-commitee
+permalink: /press-statement/
 title: "Press statement on the occasion of the launch of the Zimbabwe Communist Party"
 sidebar:
   nav: "side"
@@ -9,7 +9,9 @@ header:
   overlay_image: /assets/images/harare-banner2.jpg 
 ---
 
-MADE BY GENERAL SECRETARY COMRADE NICHOLAS NGQABUTHO MABHENA at the Bulawayo Press Club on 3rd May 2017.
+MADE BY GENERAL SECRETARY COMRADE NICHOLAS NGQABUTHO MABHENA 
+
+at the Bulawayo Press Club on 3rd May 2017.
 
 Members and Friends of the Press, Fellow Zimbabweans, Ladies and Gentlemen, Comrades
 

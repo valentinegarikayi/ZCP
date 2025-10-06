@@ -21,7 +21,9 @@ side:
     - title: "Party Programme"
       url: /programme
     - title: "Central Committee"
-      url: /central-committee    
+      url: /central-committee  
+    - title: "Pictures"
+      url: /gallery  
     - title: "Press Statement"
       url: /press-statement
     - title: "Quick History"

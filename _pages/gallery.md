@@ -2,7 +2,7 @@
 layout: splash
 classes: wide
 permalink: /gallery/
-title: "Gallery"
+title: "Pictures"
 sidebar:
   nav: "side"
 header:
@@ -20,7 +20,6 @@ toc: false
           <a href="{{ img.path | relative_url }}">
             <img src="{{ img.path | relative_url }}" alt="">
           </a>
-          <figcaption>{{ img.name | split: '.' | first | replace: '-', ' ' | capitalize }}</figcaption>
         </figure>
       {% endif %}
     {% endfor %}

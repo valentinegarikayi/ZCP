@@ -167,3 +167,63 @@ $footer-background-color: rgb(208, 208, 208);
   background: #f8f9fa;
   border-top: 1px solid #eee;
 }
+
+.article-quote {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.6rem;       /* Large readable text */
+  font-style: italic;        /* Classic quote look */
+  line-height: 1.6;          /* Comfortable spacing */
+  color: #333;               /* Dark gray, easy on eyes */
+  border-left: 4px solid #a94c4c;
+  padding-left: 1rem;
+  margin: 2rem 0;
+  background-color: #e8e3d0; /* Slight contrast background */
+}
+
+/* list archive page */
+
+.custom-post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.custom-post-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.custom-post-content {
+  flex: 1;
+}
+
+.custom-post-title {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.custom-post-date {
+  margin: 0.2rem 0 0.55rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.custom-post-excerpt {
+  margin: 0;
+  color: #444;
+  font-size: 0.8rem;
+}
+
+.custom-post-thumb {
+  flex: 0 0 200px;
+}
+
+.custom-post-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}

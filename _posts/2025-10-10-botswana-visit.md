@@ -8,8 +8,6 @@ header:
     teaser: /assets/images/mabhena-bots.JPG
 ---
 
-## GENERAL SECRETARY VISITS BOTSWANA FOR A BILATERAL MEETING WITH THE BOTSWANA NATIONAL FRONT (BNF)
-
 **9th October 2025**
 
 On the 9th of October 2025, the Zimbabwe Communist Party (ZCP) General Secretary, Cde

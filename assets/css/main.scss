@@ -185,9 +185,10 @@ $footer-background-color: rgb(208, 208, 208);
 .custom-post-list {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1rem;
 }
 
+/* Each post item layout */
 .custom-post-item {
   display: flex;
   justify-content: space-between;
@@ -195,6 +196,23 @@ $footer-background-color: rgb(208, 208, 208);
   gap: 1.5rem;
 }
 
+/* Thumbnail stays square */
+.custom-post-thumb {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 6px;
+  flex: 0 0 160px;
+}
+
+.custom-post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Text content */
 .custom-post-content {
   flex: 1;
 }
@@ -205,25 +223,42 @@ $footer-background-color: rgb(208, 208, 208);
   line-height: 1.2;
 }
 
+.custom-post-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .custom-post-date {
   margin: 0.2rem 0 0.55rem;
-  font-size: 0.9rem;
-  color: #666;
+  font-size: 0.8rem;
+  color: #925f5f;
 }
 
 .custom-post-excerpt {
   margin: 0;
   color: #444;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 
-.custom-post-thumb {
-  flex: 0 0 200px;
-}
+/* 🌐 Responsive adjustments for mobile */
+@media (max-width: 600px) {
+  .custom-post-item {
+    flex-direction: column;       /* stack vertically */
+    align-items: center;          /* center content */
+    text-align: center;           /* optional, looks nice for stacked layout */
+  }
 
-.custom-post-thumb img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
+  .custom-post-thumb {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 280px;             /* keeps image manageable on small screens */
+  }
+
+  .custom-post-title {
+    font-size: 1rem;              /* slightly smaller on mobile */
+  }
+
+  .custom-post-excerpt {
+    font-size: 0.8rem;
+  }
 }

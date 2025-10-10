@@ -19,13 +19,13 @@ Listen to audio [here](https://**Valentine**garikayi.github.io/podcasts/Ep18-Ian
 
 
 **Valentine** 0:00:00
-Hello everyone and welcome to yet another exciting episode on Zim Left Radio. Today we are joined by our regular guest to the show, Comrade Ian Bedders. How are you doing? 
+Hello everyone and welcome to yet another exciting episode on Zim Left Radio. Today we are joined by our regular guest to the show, Comrade Ian Beddowes. How are you doing? 
 
 **Ian Beddowes** 0:00:11
 I'm very well, thank you. I'm here in South Africa and we're just watching the world as it changes at the present time. In particular, we're very interested in what Ibrahim Traore and the other presidents, President Goethe of Mali and President Ciani of Niger are doing because they're not just throwing out the French, which is the colonist, they are developing their economies. They're making sure that their gold, their uranium, the money is going back into those countries and they are using the money for development. They're building roads, they're making sure people have got electricity, water, food. Okay, yeah, interesting developments in the Saïd, definitely. 
 
 **Valentine** 0:01:14
-I think Captain Ibrahim Traore and obviously the Malian Junta has captured the imagination of many people, at least many African people. Why do you think they are offering something new, Comrade Bedders? 
+I think Captain Ibrahim Traore and obviously the Malian Junta has captured the imagination of many people, at least many African people. Why do you think they are offering something new, Comrade Beddowes? 
 
 **Ian Beddowes** 0:01:29
 I think primarily it's because they are developing their countries, very poor countries by the way, much poorer than Zimbabwe. They're developing their countries with very little resources, but what was happening is the French were taking resources like gold and uranium and all the money from those resources was going to France. Now they're being used to develop their own countries and what is also good is that these leaders are not putting money into their own pockets. We know, for instance, that Ibrahim Traore is taking the pay of an army captain, which is what he was before the coup, not taking the pay of a president. In other words, he's living in a modest lifestyle, which is what we all want to see our leaders do. We've just seen, just seen, by the way, the death of former President Mujica in Uruguay and that one was known as being the poorest president in the world. He took his full salary but he gave 90% of it away to good causes, the charity to good causes. He used to drive an old VW and just live in his old house and he lived a very modest lifestyle and people loved him for that. But more important is the question of development and in Zimbabwe we have plenty of natural resources but we're not developing them. Now the big problem in Zimbabwe, in my view, is the way that different political parties have emphasized secondary things. I won't say they're not an important but secondary thing. Okay, that's a very interesting way-

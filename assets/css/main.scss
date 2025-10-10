@@ -167,3 +167,98 @@ $footer-background-color: rgb(208, 208, 208);
   background: #f8f9fa;
   border-top: 1px solid #eee;
 }
+
+.article-quote {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.6rem;       /* Large readable text */
+  font-style: italic;        /* Classic quote look */
+  line-height: 1.6;          /* Comfortable spacing */
+  color: #333;               /* Dark gray, easy on eyes */
+  border-left: 4px solid #a94c4c;
+  padding-left: 1rem;
+  margin: 2rem 0;
+  background-color: #e8e3d0; /* Slight contrast background */
+}
+
+/* list archive page */
+
+.custom-post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Each post item layout */
+.custom-post-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+/* Thumbnail stays square */
+.custom-post-thumb {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 6px;
+  flex: 0 0 160px;
+}
+
+.custom-post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Text content */
+.custom-post-content {
+  flex: 1;
+}
+
+.custom-post-title {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.custom-post-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.custom-post-date {
+  margin: 0.2rem 0 0.55rem;
+  font-size: 0.8rem;
+  color: #925f5f;
+}
+
+.custom-post-excerpt {
+  margin: 0;
+  color: #444;
+  font-size: 0.75rem;
+}
+
+/* 🌐 Responsive adjustments for mobile */
+@media (max-width: 600px) {
+  .custom-post-item {
+    flex-direction: column;       /* stack vertically */
+    align-items: center;          /* center content */
+    text-align: center;           /* optional, looks nice for stacked layout */
+  }
+
+  .custom-post-thumb {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 280px;             /* keeps image manageable on small screens */
+  }
+
+  .custom-post-title {
+    font-size: 1rem;              /* slightly smaller on mobile */
+  }
+
+  .custom-post-excerpt {
+    font-size: 0.8rem;
+  }
+}

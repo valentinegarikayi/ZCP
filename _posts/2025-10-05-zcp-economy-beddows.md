@@ -10,7 +10,7 @@ header:
 sidebar:
   - title: "About"
     image: /assets/images/Ian_Beddowes.jpg   
-    text: "****Ian Beddowes**** is a former ZAPU activist living in South Africa."    
+    text: "**Ian Beddowes** is a former ZAPU activist living in South Africa."    
 ---
 
 ## Transcript of the episode with **Ian Beddowes** on Zim Left Radio, recorded October 2025.

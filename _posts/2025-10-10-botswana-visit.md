@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 classes: wide
 title: General Secretary, Cde Mabhena, visits Botswana for a bilateral meeting with the BNF
 date: 2025-10-10

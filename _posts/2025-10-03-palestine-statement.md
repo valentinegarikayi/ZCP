@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 classes: wide
 title: Statement on the Sumud Flotilla
 date: 2025-10-03

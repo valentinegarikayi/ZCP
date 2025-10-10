@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 classes: wide
 title: Statement on the GS's visit to Botswana
 date: 2025-10-08

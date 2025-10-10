@@ -15,7 +15,7 @@ sidebar:
 
 ## Transcript of the episode with **Ian Beddowes** on Zim Left Radio, recorded October 2025.
 
-Listen to audio [here](https://**Valentine**garikayi.github.io/podcasts/Ep18-Ian-Beddowes.html)
+Listen to audio [here](https://valentinegarikayi.github.io/podcasts/Ep18-Ian-Beddowes.html)
 
 
 **Valentine** 0:00:00

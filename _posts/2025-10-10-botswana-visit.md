@@ -6,16 +6,20 @@ date: 2025-10-10
 tags: botswana diplomacy
 header:
     teaser: /assets/images/mabhena-bots.JPG
+sidebar:
+  - title: "About"
+    image: /assets/images/mabhena-bots.JPG
+    text: "Chairman of Botswana National Front, Cde Moses Bantsi, presenting party regalia to General Secretary Cde Ngqabutho Mabhena (in red)"
 ---
-
 **9th October 2025**
 
-On the 9th of October 2025, the Zimbabwe Communist Party (ZCP) General Secretary, Cde
+General Secretary, Cde
 Ngqabutho Nicholas Mabhena, held a bilateral meeting in Botswana with members of the
 Botswana National Front (BNF) Central Committee.
-
 The meeting was attended by Cde Moses Bantsi, BNF National Chairman; Cde Shawn Nthaile,
 Deputy Secretary General; and Cde Bakang Lesole, Secretary for International Relations.
+
+<img src="/assets/images/bnf-bilateral.JPG" style="width:100%; height:auto;"/>
 
 Discussions focused on geopolitics, the imperialist war in Ukraine, and the ongoing genocide in
 Gaza. Both parties jointly called for an immediate end to the imperialist war in Ukraine and

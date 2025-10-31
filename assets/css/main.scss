@@ -180,6 +180,18 @@ $footer-background-color: rgb(208, 208, 208);
   background-color: #e8e3d0; /* Slight contrast background */
 }
 
+.article-quote-small {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;       /* Large readable text */
+  font-style: italic;        /* Classic quote look */
+  line-height: 1.4;          /* Comfortable spacing */
+  color: #333;               /* Dark gray, easy on eyes */
+  border-left: 4px solid #ab4343;
+  padding-left: 1rem;
+  margin: 2rem 0;
+  background-color: #edece9; /* Slight contrast background */
+}
+
 /* list archive page */
 
 .custom-post-list {
@@ -292,4 +304,40 @@ $footer-background-color: rgb(208, 208, 208);
     width: 100%;
     max-width: 150px;
   }
+}
+
+/* scaled images */
+img.scaled {
+  width: 90%;
+  padding: 3px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.small-scaled {
+  width: 50%;
+  padding: 3px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 750px) {
+    img.small-scaled {
+         width: 400px;
+    }
+}
+
+.outlined {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; 
+}
+
+figcaption{
+  color: gray;
+  font-style: italic;
+  text-align: center;
+  padding: 3px;
+  align: center;
+  max-width: 300px;
 }

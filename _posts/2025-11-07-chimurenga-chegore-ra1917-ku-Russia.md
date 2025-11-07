@@ -6,7 +6,7 @@ date: 2025-11-07
 tags: moyo october-revolution shona
 feature: true
 header:
-    teaser: /assets/images/Lenin-zcp-Oct.png
+    teaser: /assets/images/Konstantin-Yuon-1875.jpg
 sidebar:
   - title: "About"
     image: /assets/images/Benny-Moyo.jpg

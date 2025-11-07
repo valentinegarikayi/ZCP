@@ -12,7 +12,6 @@ sidebar:
     image: /assets/images/Benny-Moyo.jpg
     text: "Benny Moyo is the ZCP's National Executive Secretary for Policy and Research"
 ---
-
 Namhlanje sigubha umkhosi omkhulu womvukela owenzeka ngo 1917 yize ingasekho i U.S.S.R eyazalwa yilenguquko
 
 Luqakathekile lolu suku ngoba yilo olwenza i U.S.S.R lamanye amazwe afana le Cuba, G.D.R, Czechoslovak, Yugoslavia asekele impi yethu yenkululeko. Yilo lolu suku olwaletha inkululeko e China, Laos, Kampuchea, Vietnam, Zimbabwe, Ethiopia, Angola, Namibia, Mozambique le South Africa.
@@ -30,3 +29,32 @@ c). Kufanele sixoxisane lenhlanganiso yizisebenzi kanye le zakhamizi, kanye laba
 d). Kuzadingeka Kube lohlelo lokukhulumisana lamapholisa lama sotsha.
 
 Asizibuzeni ukuba yini eyenza ukuba uJ.T Gumede oweye nguMongameli we ANC evakatshele e Moscow ngo 1927 athi ngibone ijerusalem entsha mkhulu umsebenzi madoda owokufeza injongo zempi yenkululeko.
+
+<div class="poem">
+Silethulela izigqoko bovulindlela  
+Lakhetha indlela entsha  
+Layicanda mhlaka 7 Lwezi  
+
+Lenin, Karl Marx  
+Lasitshiyela ilifa  
+Umthapho ongapheliyo  
+
+Izigqili zala ukuba  
+Yizigqili  
+Wabamkhulu umvukela  
+Wawa umbuso ka Tsar  
+
+Siyaziqhenya ngani  
+Maqhawe  
+Labhidliza ubuncindezelo  
+Ababengasilutho baba ngabantu  
+
+Watsho oka Gumede  
+Ngiboni iJerusalem entsha  
+Maqhawe lamaqhawekazi  
+Lasihlomisa ngenguquko  
+Ka Mfumfu 1917.
+</div>
+
+<p class="footer">Iyabonga iAfrika</p>
+

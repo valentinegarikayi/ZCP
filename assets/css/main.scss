@@ -341,3 +341,122 @@ figcaption{
   align: center;
   max-width: 300px;
 }
+/* ====== Page Layout ====== */
+.layout--single.wide .page__content {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 2.5rem 3rem;
+  border-radius: 10px;
+  border-top: 4px solid #d62828; /* ZCP red accent */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  line-height: 1.8;
+  font-family: "Merriweather", "Georgia", serif;
+  color: #1a1a1a;
+}
+
+/* ====== Headings ====== */
+.layout--single.wide .page__content h1,
+.layout--single.wide .page__content h2 {
+  text-align: center;
+  color: #111;
+  margin-bottom: 1.5rem;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+}
+
+.layout--single.wide .page__content h1 {
+  font-size: 2rem;
+  color: #d62828; /* ZCP red */
+  border-bottom: 2px solid #111;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
+
+.layout--single.wide .page__content h2 {
+  font-size: 1.4rem;
+  color: #d62828;
+  margin-top: 2.5rem;
+  border-bottom: 1px dashed #d62828;
+  display: inline-block;
+  padding-bottom: 0.2rem;
+}
+
+/* ====== Text Body ====== */
+.layout--single.wide .page__content p {
+  margin: 1.2rem 0;
+  text-align: justify;
+  font-size: 1.05rem;
+}
+
+.layout--single.wide .page__content ul,
+.layout--single.wide .page__content ol {
+  margin: 1.2rem 2rem;
+}
+
+.layout--single.wide .page__content li {
+  margin: 0.8rem 0;
+}
+
+/* ====== Poem Styling ====== */
+.layout--single.wide .page__content .poem {
+  background: #fff4f4; /* pale red tint */
+  border-left: 5px solid #d62828;
+  padding: 1.5rem 1rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.9;
+  white-space: pre-line;
+  text-align: center;
+  color: #111;
+  position: relative;
+}
+
+.layout--single.wide .page__content .poem::before {
+  content: "❝";
+  font-size: 2.2rem;
+  color: #d62828;
+  position: absolute;
+  top: -10px;
+  left: 10px;
+}
+
+.layout--single.wide .page__content .poem::after {
+  content: "❞";
+  font-size: 2.2rem;
+  color: #d62828;
+  position: absolute;
+  bottom: -20px;
+  right: 10px;
+}
+
+/* ====== Footer Line ====== */
+.layout--single.wide .page__content .footer {
+  text-align: right;
+  margin-top: 2rem;
+  font-weight: 700;
+  color: #d62828;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ====== Responsive ====== */
+@media (max-width: 700px) {
+  .layout--single.wide .page__content {
+    padding: 2rem 1.2rem;
+  }
+
+  .layout--single.wide .page__content h1 {
+    font-size: 1.6rem;
+  }
+
+  .layout--single.wide .page__content h2 {
+    font-size: 1.25rem;
+  }
+
+  .layout--single.wide .page__content .poem {
+    font-size: 1rem;
+  }
+}

@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Umkhosi we nguquko ka Mfumfu: Benny Moyo"
+title: "Umkhosi we nguquko ka Mfumfu"
 date: 2025-11-06
 tags: moyo october-revolution isindebele
 feature: true

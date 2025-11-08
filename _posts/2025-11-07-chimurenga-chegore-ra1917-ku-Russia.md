@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Chimurenga chegore ra 1917 ku Russia: Benny Moyo"
+title: "Chimurenga chegore ra 1917 ku Russia"
 date: 2025-11-07
 tags: moyo october-revolution shona
 feature: true

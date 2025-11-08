@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: "The 108th Anniversary of the Great October Revolution: lessons for today"
 date: 2025-11-08
-tags: beddowes pan-africanism
+tags: socialism national liberation
 feature: true
 header:
     teaser: /assets/images/Boris-Kustodiev.jpg

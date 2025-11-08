@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "The Birth of Pan-Africanism: Ian Beddowes"
+title: "The Birth of Pan-Africanism"
 date: 2025-10-16
 tags: beddowes pan-africanism
 feature: true

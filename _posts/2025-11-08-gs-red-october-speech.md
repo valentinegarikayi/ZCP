@@ -9,7 +9,7 @@ header:
     teaser: /assets/images/ZCP.png
 sidebar:
   - title: "About"
-    image: /assets/images/
+    image: /assets/images/mabhena-profile-pic.jpg
     text: "Ngqabutho Nicholas Mabhena is the General Secretary of the Zimbabwe Communist Party"
 ---
 

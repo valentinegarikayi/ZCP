@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Editorial: Our history, our present and our future"
+title: "Vanguard Vol.3, Issue 14 Editorial: Our history, our present and our future"
 date: 2025-11-07
 tags: beddowes vanguard
 feature: true

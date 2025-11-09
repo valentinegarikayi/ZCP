@@ -168,30 +168,6 @@ $footer-background-color: rgb(208, 208, 208);
   border-top: 1px solid #eee;
 }
 
-.article-quote {
-  font-family: Georgia, 'Times New Roman', serif;
-  font-size: 1.6rem;       /* Large readable text */
-  font-style: italic;        /* Classic quote look */
-  line-height: 1.6;          /* Comfortable spacing */
-  color: #333;               /* Dark gray, easy on eyes */
-  border-left: 4px solid #a94c4c;
-  padding-left: 1rem;
-  margin: 2rem 0;
-  background-color: #e8e3d0; /* Slight contrast background */
-}
-
-.article-quote-small {
-  font-family: Georgia, 'Times New Roman', serif;
-  font-size: 1.1rem;       /* Large readable text */
-  font-style: italic;        /* Classic quote look */
-  line-height: 1.4;          /* Comfortable spacing */
-  color: #333;               /* Dark gray, easy on eyes */
-  border-left: 4px solid #ab4343;
-  padding-left: 1rem;
-  margin: 2rem 0;
-  background-color: #edece9; /* Slight contrast background */
-}
-
 /* list archive page */
 
 .custom-post-list {
@@ -330,84 +306,29 @@ img.small-scaled {
 .outlined {
     display: inline-block;
     border: 1px dotted gray;
-    margin: 20px; 
+    margin: 20px;
 }
 
+/* == figure captions == */
 figcaption{
   color: gray;
   font-style: italic;
   text-align: center;
-  padding: 3px;
-  align: center;
+  padding: 4px 0;
   max-width: 300px;
-}
-/* ====== Page Layout ====== */
-.layout--single.wide .page__content {
-  max-width: 900px;
   margin: 0 auto;
-  background-color: #ffffff;
-  padding: 2.5rem 3rem;
-  border-radius: 10px;
-  border-top: 4px solid #d62828; /* ZCP red accent */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-  line-height: 1.8;
-  font-family: "Merriweather", "Georgia", serif;
-  color: #1a1a1a;
-}
-
-/* ====== Headings ====== */
-.layout--single.wide .page__content h1,
-.layout--single.wide .page__content h2 {
-  text-align: center;
-  color: #111;
-  margin-bottom: 1.5rem;
-  font-family: "Merriweather", serif;
-  font-weight: 700;
-}
-
-.layout--single.wide .page__content h1 {
-  font-size: 2rem;
-  color: #d62828; /* ZCP red */
-  border-bottom: 2px solid #111;
-  display: inline-block;
-  padding-bottom: 0.3rem;
-}
-
-.layout--single.wide .page__content h2 {
-  font-size: 1.4rem;
-  color: #d62828;
-  margin-top: 2.5rem;
-  border-bottom: 1px dashed #d62828;
-  display: inline-block;
-  padding-bottom: 0.2rem;
-}
-
-/* ====== Text Body ====== */
-.layout--single.wide .page__content p {
-  margin: 1.2rem 0;
-  text-align: justify;
-  font-size: 1.05rem;
-}
-
-.layout--single.wide .page__content ul,
-.layout--single.wide .page__content ol {
-  margin: 1.2rem 2rem;
-}
-
-.layout--single.wide .page__content li {
-  margin: 0.8rem 0;
 }
 
 /* ====== Poem Styling ====== */
 .layout--single.wide .page__content .poem {
-  background: #fff4f4; /* pale red tint */
+  background: #e8e3e3;
   border-left: 5px solid #d62828;
-  padding: 1.5rem 1rem;
-  margin: 2rem 0;
+  padding: 1.3rem 1rem;
+  margin: 1rem 0;
   border-radius: 8px;
-  font-style: italic;
-  font-size: 1.1rem;
-  line-height: 1.9;
+  font-family: 'Lora', Georgia, "Palatino Linotype", "Book Antiqua", serif;
+  font-size: 1.5rem;
+  line-height: 1.7;
   white-space: pre-line;
   text-align: center;
   color: #111;
@@ -444,105 +365,69 @@ figcaption{
 
 /* ====== Responsive ====== */
 @media (max-width: 700px) {
-  .layout--single.wide .page__content {
-    padding: 2rem 1.2rem;
-  }
-
-  .layout--single.wide .page__content h1 {
-    font-size: 1.6rem;
-  }
-
-  .layout--single.wide .page__content h2 {
-    font-size: 1.25rem;
-  }
-
   .layout--single.wide .page__content .poem {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
-}
-
-/* ====== General Article Body ====== */
-.page__content {
-  font-family: "Merriweather", "Georgia", serif;
-  line-height: 1.8;
-  font-size: 1.05rem;
-  color: #222;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-/* ====== Headings ====== */
-.page__content h2, 
-.page__content h3 {
-  color: #b22222;
-  font-family: "Oswald", "Helvetica Neue", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-}
-
-.page__content h2 {
-  border-left: 5px solid #b22222;
-  padding-left: 0.6rem;
-}
-
-.page__content h3 {
-  font-weight: 500;
-  color: #333;
-}
-
-/* ====== Section Wrapper ====== */
-.section {
-  margin: 2.5rem 0;
-  padding: 1.5rem;
-  background: #fffaf5;
-  border-left: 4px solid #b22222;
-  border-radius: 6px;
 }
 
 /* ====== Quotation / Speech Highlights ====== */
-.speech, 
-.quote {
-  font-style: italic;
-  font-size: 1.05rem;
-  line-height: 1.9;
-  background: #f9f9f9;
-  border-left: 4px solid #b22222;
-  margin: 1.8rem 0;
-  padding: 1rem 1.5rem;
-  border-radius: 6px;
+
+/* large quote blocks */
+.article-quote {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.6rem;       /* Large readable text */
+  font-style: italic;        /* Classic quote look */
+  line-height: 1.6;          /* Comfortable spacing */
+  color: #333;               /* Dark gray, easy on eyes */
+  border-left: 4px solid #a94c4c;
+  padding-left: 1rem;
+  margin: 2rem 0;
+  background-color: #e8e3d0; /* Slight contrast background */
 }
 
-.speech cite {
-  display: block;
-  margin-top: 0.8rem;
-  text-align: right;
-  color: #555;
-  font-style: normal;
-  font-size: 0.95rem;
+/* smaller quote blocks */
+.article-quote-small {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1rem;       /* Large readable text */
+  font-style: italic;        /* Classic quote look */
+  line-height: 1.4;          /* Comfortable spacing */
+  color: #333;               /* Dark gray, easy on eyes */
+  border-left: 4px solid #ab4343;
+  padding-left: 1rem;
+  margin: 2rem 0;
+  background-color: #edece9; /* Slight contrast background */
+}
+
+.speech, .cite
+ {
+  white-space: pre-line; /* 👈 keeps your line breaks */
+  font-family: "Lato", Georgia, 'Times New Roman', serif;
+  font-size: 1em;
+  font-style: italic;
+  line-height: 1.4;
+  border-left: 4px solid #c58686;
+  padding: .5em 1em 1em 1em; /* top, right, bottom, left */
+  margin: 1.5em;
+  color: #090909;
+  border-radius: 6px;
+  background: #fbfbfb;
+}
+
+.speech h2, .speech h3 {
+  margin-top: 0.5em;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #333;
 }
 
 /* ====== Bullet Lists ====== */
-.page__content ul, 
+.page__content ul,
 .page__content ol {
   margin: 1.2rem 2rem;
 }
 
 .page__content li {
   margin: 0.6rem 0;
-}
-
-/* ====== Callout (Important Note or Definition) ====== */
-.callout {
-  background: #b22222;
-  color: #fff;
-  padding: 1.2rem 1.5rem;
-  border-radius: 8px;
-  font-weight: 500;
-  margin: 2rem 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
 /* ====== Closing Line ====== */

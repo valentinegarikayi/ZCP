@@ -76,7 +76,7 @@ itself.
 
 In Britain in 1897, a lawyer from Trinidad, Henry Sylvester Williams (1869-1911), a writer from South Africa, Alice Kinloch (nee Alexander, 1863-1946) and a lawyer and politician from Sierra Leone, Thomas Josiah Thompson (1867-1941), came together in London to form the African Association to:
 
-**“...promote and protect the interests of all subjects claiming African descent, wholly or in part, in British colonies and other place, especially Africa, by circulating accurate information on all subjects affecting their rights and privileges as subjects of the British Empire…”**
+>“...promote and protect the interests of all subjects claiming African descent, wholly or in part, in British colonies and other place, especially Africa, by circulating accurate information on all subjects affecting their rights and privileges as subjects of the British Empire…”
 
 In 1900, this group organised the First Pan-African Congress in London, changing their name from ‘the ‘African Association’ to the ‘Pan-African Association’. It was a polite affair attended by 30 delegates including the Anglican Bishop of London. One very important young man from the USA was among those who attended ― this was W.E.B. Du Bois (1868-1963). His name was pronounced in the American style ‘Doo-Boyz’,
 Du Bois was born into a well-off black family in Massachusetts, he was a brilliant historian becoming the first black American to obtain a Ph.D. from Harvard University. Most importantly, he was to take over the leadership of the Pan-African movement from Henry Sylvester Williams.
@@ -84,11 +84,7 @@ Du Bois was born into a well-off black family in Massachusetts, he was a brillia
 At first Du Bois was an elitist believing in the leadership of the ‘talented tenth’ of the black population. His most famous book The Souls of Black Folk, written in 1903 was a proclamation of the humanity of people of African descent in a land where they were ill-treated and despised.
 Early pan-Africanism was a plea for inclusion into the system. What was later called ‘Black Consciousness’ was necessary for people to regain their self-W.E.B. DU BOIS respect: ‘Black is Beautiful’ was the phrase which spread the message. In the programme of the Zimbabwe Communist Party, Completing the Liberation of Zimbabwe [para 14] it says:
 
-**“‘Black Consciousness’ is, without any doubt, important in developing the self-respect of
-and people of African descent dehumanised by slavery, colonialism and the colour bar, but it can
-never, in itself, constitute a political programme for the capture of state power by anti-imperialist
-forces led by the workers and peasants and the subsequent development of production through
-the promotion of national democratic and socialist economies.”**
+>“‘Black Consciousness’ is, without any doubt, important in developing the self-respect of and people of African descent dehumanised by slavery, colonialism and the colour bar, but it can never, in itself, constitute a political programme for the capture of state power by anti-imperialist forces led by the workers and peasants and the subsequent development of production through the promotion of national democratic and socialist economies.”
 
 Following the First Pan-African Conference of 1900, there was no other international gathering until
 the First Pan-African Congress of February 1919 organised by W.E.B. Du Bois in France four months
@@ -125,17 +121,11 @@ Garvey was successful in raising large amounts of money for grandiose business v
 The Communist International (Comintern) was formed in 1919. During the 1920s it began to take a serious interest in Africa. In February 1927, the Comintern founded the League Against Imperialism and Colonial
 Oppression at a Conference in Brussels, Belgium. It was attended by two delegates from South Africa, James La Guma (1894-1961) from the Communist Party of South Africa (CPSA) and J.T. Gumede (1867-1946) from the African National Congress (ANC). Gumede was to become the first militant President of the ANC, serving in that office from 1927 till 1930. As a result of their interaction, in 1928 the 6 Congress of the Comintern adopted a resolution:
 
-**“...the Communist Party of South Africa must combine the fight against all anti-native laws with
-the general political slogan in the fight against British domination, the slogan of an independent
-native South African republic as a stage towards a workers’ and peasants’ republic, with full
-equal rights for all races, black, coloured and white.”**
+>“...the Communist Party of South Africa must combine the fight against all anti-native laws with the general political slogan in the fight against British domination, the slogan of an independent native South African republic as a stage towards a workers’ and peasants’ republic, with full equal rights for all races, black, coloured and white.”
 
 And to achieve this goal:
 
-**“The Party should pay particular attention to the embryonic national organisations among the natives, such as the African National Congress. The Party, while retaining its full independence,
-should participate in these organisations, should seek to broaden and extend their activity. Our
-aim should be to transform the African National Congress into a fighting nationalist revolutionary
-organisation…”**
+>“The Party should pay particular attention to the embryonic national organisations among the natives, such as the African National Congress. The Party, while retaining its full independence, should participate in these organisations, should seek to broaden and extend their activity. Our aim should be to transform the African National Congress into a fighting nationalist revolutionary organisation…”
 
 This resolution was to have far-reaching consequences for South Africa.
 

@@ -18,8 +18,6 @@ sidebar:
 
 On the 108th anniversary of the social phenomenon set in motion on October 25 (November 7), 1917—when Russia was using the Gregorian calendar—we pause to note the achievements of one of the most significant events of the 20th century. Unlike the bourgeois revolutions that preceded it, such as the American Revolution of 1776 and the French Revolution of 1789, which ran their course relatively quickly, the October Revolution initiated a lasting transformation. By the time the American and French revolutions reached their 108th anniversaries, entrenched systems of exploitation had largely canceled out the “inalienable rights” of the working people.
 
----
-
 ## Lenin’s Realism and the First Victory
 
 On the fourth anniversary of the October Revolution, Lenin captured its essence with characteristic realism:
@@ -29,13 +27,9 @@ On the fourth anniversary of the October Revolution, Lenin captured its essence 
 
 All the leading figures of the October Revolution have long passed, but as symbols and influences, they remain immortalised. Lenin, acknowledged even by bourgeois historians as one of the most influential political figures of the 20th century, has shaped global thought through his writings and theories. The 108th anniversary of the revolution is therefore not just about nostalgia or the observance of a fixed point in time. Instead, it marks the launch of a social force that continues to resonate.
 
----
-
 ## The October Revolution and Global Transformation
 
 The Great October Revolution was unique not only because the people overthrew the Tsarist regime, but because it was led by a vanguard party imbued with scientific theory and determined to build socialism. Unlike spontaneous uprisings elsewhere, it was carefully planned, executed, and grounded in a clear understanding of social forces. Over the past century, the revolution has confirmed the correctness of Leninist analysis and decisions.
-
----
 
 ## Social Revolution and National Liberation
 
@@ -44,8 +38,6 @@ The association of socialist revolution with struggles for national liberation h
 > “Developments in Russia baffle comment. Exultation admits of no commentary. What we are witnessing is a worldwide commonwealth of labour.”
 
 In Central Asia, the October Revolution inspired a bitter struggle for emancipation. Foreign interventions, including by the British, sought to preserve colonial and feudal systems, but the revolutionary movement prevailed. The experience of Central Asia provides several key lessons. Multinational populations achieved unity in struggles against colonialism and social oppression while developing as distinct national entities with the right to self-determination. National liberation coincided with socialist revolution, producing both social and political emancipation. This process allowed a leap from pre-capitalist to socialist relations of production without passing through a prolonged capitalist stage. The lack of a native proletariat was compensated by close alliances with the Russian working class and state, which provided material support, training, and resources for social, agrarian, and cultural development.
-
----
 
 ## The October Revolution and the End of Colonialism
 
@@ -61,15 +53,11 @@ Echoing these sentiments, J.B. Marks, national chairman of the SACP, stated on t
 
 The USSR’s support played a critical role in the success of national liberation movements in China, Vietnam, Laos, Kampuchea (Cambodia), Korea, Algeria, Yemen, Angola, Mozambique, Guinea-Bissau, Zimbabwe, Namibia, El Salvador, South Africa, and Western Sahara. The Cuban Revolution’s success in the United States’ backyard further demonstrates the global impact of the October Revolution.
 
----
-
 ## Imperialism, Counter-Revolution, and Lessons for Today
 
 While socialist countries generally avoided exporting revolution by force, imperialist powers have repeatedly intervened militarily to suppress progressive or anti-imperialist governments. Examples include Chile, Afghanistan, Libya, Ethiopia, Guatemala, Grenada, Chad, Indonesia, and Fiji. Fear of the October Revolution’s ideas continues to shape Western foreign policy, as seen in sanctions against Cuba and attempts to isolate Russia.
 
 For Zimbabwean communists inspired by the October Revolution, these lessons are clear: the struggle for liberation and socialism continues. The revolution teaches the importance of organisation, theoretical clarity, international solidarity, and the persistent fight against imperialism and exploitation.
-
----
 
 ## Conclusion
 

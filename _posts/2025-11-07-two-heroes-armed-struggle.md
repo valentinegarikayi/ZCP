@@ -13,7 +13,7 @@ sidebar:
     text: "From Vanguard Issue 14. On the anniversary of the October revolution we remember our Zimbabwean heroes."
 ---
 
-# Neither ZANLA Commander Josiah Tongogara nor ZPRA Commander Lookout Masuku were able to enjoy the Independence they had fought for.
+*Neither ZANLA Commander Josiah Tongogara nor ZPRA Commander Lookout Masuku were able to enjoy the Independence they had fought for.*
 
 ## Josiah Tongogara (1938-1979)
 

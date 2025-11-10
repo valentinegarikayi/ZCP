@@ -12,9 +12,6 @@ sidebar:
     image: /assets/images/Benny-Moyo.jpg
     text: "Benny Moyo is the ZCP’s National Executive Secretary for Policy and Research"
 ---
-# 108th Anniversary of the October Revolution
-
-*Date: November 7, 2025*
 
 On the 108th anniversary of the social phenomenon set in motion on October 25 (November 7), 1917—when Russia was using the Gregorian calendar—we pause to note the achievements of one of the most significant events of the 20th century. Unlike the bourgeois revolutions that preceded it, such as the American Revolution of 1776 and the French Revolution of 1789, which ran their course relatively quickly, the October Revolution initiated a lasting transformation. By the time the American and French revolutions reached their 108th anniversaries, entrenched systems of exploitation had largely canceled out the “inalienable rights” of the working people.
 

@@ -101,9 +101,9 @@ that the CIA was involved with his death. Certainly, the USA and UK at that time
 ZAPU and did not want any party backed by the USSR to come to power.
 
 <div style="width: auto;">
-  <figure>
-    <img class="small-scaled" src="/assets/images/ambrose_mutinhiri.png" alt="icon">
-    <figcaption>AMBROSE MUTINHIRI ZPRA CHIEF OF STAFF AND WOMEN"S BATTALION</figcaption>
+  <figure class="small-scaled">
+    <img src="/assets/images/ambrose_mutinhiri.png" alt="icon">
+    <figcaption>Ambrose Mutinhiri ZPRA chief of staff and women"s battalion</figcaption>
   </figure>
 </div>
 

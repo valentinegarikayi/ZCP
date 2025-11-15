@@ -4,7 +4,6 @@ classes: wide
 title: "The 108th Anniversary of the Great October Revolution: lessons for today"
 date: 2025-11-07
 tags: socialism national liberation
-feature: true
 header:
     teaser: /assets/images/Boris-Kustodiev.jpg
 sidebar:

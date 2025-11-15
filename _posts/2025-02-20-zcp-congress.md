@@ -6,7 +6,6 @@ date: 2024-01-20
 header:
   teaser: /assets/images/20240227_110027.jpg
 tags: zcp
-feature: true
 sidebar:
   - title: "In brief"
     image: /assets/images/ZCP.png

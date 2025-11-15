@@ -140,9 +140,8 @@ In 1939 Moses Kotane (1905-1978) became General Secretary of the Communist Party
 uring the dark days of apartheid. Kotane had been trained by the Comintern in Moscow in the early 1930s. For a long time Kotane also held the post of Treasurer-General of the ANC and has often been referred to as “Chief Architect of the South African Struggle” In 1930, the Red International of Labour Unions, also known as the ‘Profintern’ launched the International Trade Union Committee of Negro Workers. This body was to play an important role in fostering the trade union movement in Africa.
 
 <div style="width: auto;">
-  <figure>
-    <img class="small-scaled" src="/assets/images/negro_worker.png" alt="icon">
-   
+  <figure class="small-scaled">
+    <img src="/assets/images/negro_worker.png" alt="icon">
   </figure>
 </div>
 
@@ -150,15 +149,13 @@ uring the dark days of apartheid. Kotane had been trained by the Comintern in Mo
 
 The end of the Second World War came in 1945 with the Victory in Europe coming in May and the Victory over Japan coming in August. In October 1945, the 5th Pan-African Congress was convened in Manchester England. There were 90 delegates. It pulled together all the strands of pan-Africanism, but the victory of the Red Army and the bravery of the Communist-led partisan forces in several countries impressed everyone.
 
-The formerly elitist veteran W.E.B. Du Bois, had, over the years, moved increasingly closer to Communism. Now aged 77 he played a prominent role in the Congress. The main organiser of the Congress was Comintern-trained Trinidadian trade unionist George Padmore (1903-1959). Kwame Nkrumah (1909-1972), a staunch scientific socialist, was to lead Ghana to Independence in 1957 and to play a leading role in the formation of the Organisation of African Unity (OAU) in 1963. Also there were Jomo Kenyatta (1897-1978) who was to become the first President of Kenya and Hastings Banda (1898-1997) of Nyasaland who was to become President of independent Malawi. 
+The formerly elitist veteran W.E.B. Du Bois, had, over the years, moved increasingly closer to Communism. Now aged 77 he played a prominent role in the Congress. The main organiser of the Congress was Comintern-trained Trinidadian trade unionist George Padmore (1903-1959). Kwame Nkrumah (1909-1972), a staunch scientific socialist, was to lead Ghana to Independence in 1957 and to play a leading role in the formation of the Organisation of African Unity (OAU) in 1963. Also there were Jomo Kenyatta (1897-1978) who was to become the first President of Kenya and Hastings Banda (1898-1997) of Nyasaland who was to become President of independent Malawi.
 
 After the 5th Pan-African Congress the movement for the independence of Africa gained momentum.
 
 <div style="width: auto;">
-  <figure>
-    <img class="scaled" src="/assets/images/nkrumah_padmore.png" alt="icon">
+  <figure class="small-scaled">
+    <img src="/assets/images/nkrumah_padmore.png" alt="icon">
     <figcaption>Kwame Nkrumah & George Padmore</figcaption>
   </figure>
 </div>
-
-Continued in part 2.

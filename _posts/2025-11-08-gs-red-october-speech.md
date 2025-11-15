@@ -4,7 +4,6 @@ classes: wide
 title: "Speech of the GS on the 108th Red October celebrations in Bulawayo"
 date: 2025-11-08
 tags: red october neocolonialism speeches
-feature: true
 header:
     teaser: /assets/images/ZCP.png
 sidebar:

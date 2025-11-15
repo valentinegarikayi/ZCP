@@ -4,7 +4,6 @@ classes: wide
 title: Speech by the ARTUZ International Relations Secretary, Cde Sukoluhle Ndlovu 
 date: 2025-10-07
 tags: artuz
-feature: true
 header:
     teaser: /assets/images/sukholuhle-speech.jpg
 ---

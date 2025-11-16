@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "The Birth of Pan-Africanism"
+title: "Pan-Africanism part 1: The Birth of Pan-Africanism"
 date: 2025-10-16
 tags: beddowes pan-africanism
 feature: true
@@ -159,3 +159,5 @@ After the 5th Pan-African Congress the movement for the independence of Africa g
     <figcaption>Kwame Nkrumah & George Padmore</figcaption>
   </figure>
 </div>
+
+Continued in [Part 2](/pan-africanism-part2)

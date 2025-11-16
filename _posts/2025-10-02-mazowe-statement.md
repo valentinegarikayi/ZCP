@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Statement on the Mazowe mine shaft tragedy
 date: 2025-10-02
-tags: gold mazowe mining
+tags: gold mining
 header:
     teaser: /assets/images/makorokoza-going-underground.webp
 ---

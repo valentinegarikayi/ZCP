@@ -310,6 +310,11 @@ img.small-scaled {
 }
 
 /* == figure and captions == */
+figure.scaled {
+  width: 90%;
+  margin: 0 auto;    /* centers the whole figure */
+  padding: 3px;
+}
 
 figure.small-scaled {
   width: 50%;

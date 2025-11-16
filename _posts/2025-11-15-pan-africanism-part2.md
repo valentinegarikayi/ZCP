@@ -93,7 +93,7 @@ In 1963, Kenya was granted ‘independence’ with Soviet-trained Jomo Kenyatta 
 progressive presidency of Mwai Kibaki (1931-2022; President 2002-2013).
 
 <div style="width: auto;">
-  <figure class="small-scaled">
+  <figure class="scaled">
     <img src="/assets/images/british_treatment_kenyans.png" alt="icon">
      <figcaption>British treament of Kenyans during Mau Mau uprising.</figcaption>
   </figure>
@@ -156,7 +156,7 @@ The Belgians, the British, the US and the UN were all complicit in the murder. T
 Patrice Lumumba was the first senior African leader to me martyred, other were to follow.
 
 <div style="width: auto;">
-  <figure class="small-scaled">
+  <figure class="scaled">
     <img src="/assets/images/lumumba_arrest.png" alt="icon">
      <figcaption>Patrice Lumumba arrested and mistreated under full view of UN forces.</figcaption>
   </figure>

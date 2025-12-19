@@ -17,7 +17,7 @@ sidebar:
 
 In [Part 2](/pan-africanism-part2) we examined the rapid granting of ‘Independence’ to African by the two major colonial powers in Africa, Britain and France plus the horrific and continuing story of Congo, colonised by the Belgians.
 
-In Part 3 we will examine the institutionalisation of neo-colonialism. By the late 1950s, in response to armed struggles in Algeria against the French and Kenya against the British, the two main colonial powers, Britain and France decided on the policy of  eo-colonialism to defend their economic interests.
+In Part 3 we will examine the institutionalisation of neo-colonialism. By the late 1950s, in response to armed struggles in Algeria against the French and Kenya against the British, the two main colonial powers, Britain and France decided on the policy of  neo-colonialism to defend their economic interests.
 
 Belgium, in control of the massive, resource-rich Congo, followed suit, and in 1960, when the first democratically elected Prime Minister, Patrice Lumumba showed signs of not wanting to follow the interests of the mining corporations, the Belgians with the assistance of the USA and the United Nations Secretariat, removed him from power and murdered him.
 

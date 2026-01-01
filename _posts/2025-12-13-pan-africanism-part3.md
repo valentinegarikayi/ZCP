@@ -66,7 +66,7 @@ The conditions for any African country becoming part of the French Community wer
 3. France had the right of first refusal on any raw or natural resource discovered in any French Community country.
 4. French companies had the first right to take any government contract in any French Community country.
 5. No country in the French Community was allowed military assistance from any country other than France without French permission.
-6. France had the exclusive right to supply military equipment and train military officers any French Community country. France had the right to station troops and intervene in any French Community country.
+6. France had the exclusive right to supply military equipment and train military officers any French Community country.France had the right to station troops and intervene in any French Community country.
 
 In practice it is generally agreed that in all countries which accepted these rules, through various mechanisms, the countries involved would receive no more than 15% of the revenue generated while France receives 85%
 
